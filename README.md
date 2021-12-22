@@ -1,2 +1,0 @@
-"# kalk" 
-# kalkul
